@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npx vite build",
+    "build": "node node_modules/.bin/vite build",
     "deploy:convex": "npx convex deploy",
     "preview": "vite preview",
     "typecheck": "tsc --noEmit",
