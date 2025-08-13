@@ -1,0 +1,10 @@
+goldenId,fullName,email,phone,address,sources
+CUST-f27c89ec98,Hopper grace@example.com,(212)5550103,,,CRM:Grace
+CUST-3380db4715,Lovelace ADA@EXAMPLE.com,+1(415)555-0101,+121,London,CRM:Ada
+CUST-c43f9d9a22,grace@example.com,+12125550103,,,Billing:G. Hopper
+CUST-4b4774676a,alan.turing@example.com,+1415-555-0102,+11,Manchester,Billing:A. Turing
+CUST-5b49d0fa00,ada@example.com,+14155550101,+121,London,Billing:Ada Lovelace
+CUST-5befa58800,new@example.com,+16505550104,,,Billing:New Customer
+CUST-bce254d3eb,Turing alan.turing@example.com,415-555-0102,+11,Manchester,CRM:Alan
+CUST-c23e2f1a78,Alan Mathison Turing,a.turing@example.com,+15550102,,Support:s-10
+CUST-48c2e550a0,Ada A. Lovelace,ada@example.com,+14155550101,,Support:s-9

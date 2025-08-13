@@ -1,0 +1,60 @@
+{
+  "generated_at": "2025-08-12T09:23:53Z",
+  "iocs": {
+    "ips": [
+      "198.51.100.77",
+      "203.0.113.5"
+    ],
+    "domains": [
+      "hr-bonus-sheet.net",
+      "paypa1-security.com"
+    ]
+  },
+  "hits": {
+    "ips": [
+      {
+        "file": "automation/data/logs/sample_auth.log",
+        "line": 1,
+        "ip": "203.0.113.5",
+        "raw": "Aug 12 14:00:01 ubuntu sshd[1234]: Failed password for invalid user admin from 203.0.113.5 port 53842 ssh2"
+      },
+      {
+        "file": "automation/data/logs/sample_auth.log",
+        "line": 2,
+        "ip": "203.0.113.5",
+        "raw": "Aug 12 14:00:15 ubuntu sshd[1236]: Failed password for invalid user root from 203.0.113.5 port 53844 ssh2"
+      },
+      {
+        "file": "automation/data/logs/sample_auth.log",
+        "line": 3,
+        "ip": "203.0.113.5",
+        "raw": "Aug 12 14:01:05 ubuntu sshd[1250]: Failed password for jdoe from 203.0.113.5 port 53850 ssh2"
+      },
+      {
+        "file": "automation/data/logs/sample_auth.log",
+        "line": 4,
+        "ip": "203.0.113.5",
+        "raw": "Aug 12 14:02:07 ubuntu sshd[1261]: Failed password for jdoe from 203.0.113.5 port 53860 ssh2"
+      },
+      {
+        "file": "automation/data/logs/sample_auth.log",
+        "line": 5,
+        "ip": "203.0.113.5",
+        "raw": "Aug 12 14:03:11 ubuntu sshd[1278]: Failed password for jdoe from 203.0.113.5 port 53871 ssh2"
+      },
+      {
+        "file": "automation/data/logs/sample_auth.log",
+        "line": 6,
+        "ip": "203.0.113.5",
+        "raw": "Aug 12 14:04:15 ubuntu sshd[1288]: Accepted password for jdoe from 203.0.113.5 port 53879 ssh2"
+      },
+      {
+        "file": "automation/data/logs/sample_auth.log",
+        "line": 7,
+        "ip": "198.51.100.77",
+        "raw": "Aug 12 14:15:45 ubuntu sshd[1450]: Failed password for invalid user test from 198.51.100.77 port 54501 ssh2"
+      }
+    ],
+    "domains": []
+  }
+}

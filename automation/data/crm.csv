@@ -1,0 +1,4 @@
+id,firstName,lastName,email,phone,address
+c-1001,Ada,Lovelace,ADA@EXAMPLE.com,+1 (415) 555-0101,21B Baker St, London
+c-1002,Alan,Turing,alan.turing@example.com,415-555-0102,1 King's Rd, Manchester
+c-1003,Grace,Hopper,grace@example.com,(212) 555 0103,NYC
